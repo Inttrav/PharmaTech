@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-### Mini Project for Database Management Systems (18CSC303J)
+### Mini Project for Database Management Systems (21CSC205P)
 
 Members:
 - Sourabh Dhar (RA2211003010998)
